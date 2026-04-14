@@ -22,4 +22,4 @@ This repository contains the core implementation of **SDR-Net**, a polar coordin
 
 ## Note
 
-The full training code, configuration files, and pre-trained weights will be uploaded upon paper acceptance.
+Our pre-trained weights will be uploaded after the paper is accepted.
